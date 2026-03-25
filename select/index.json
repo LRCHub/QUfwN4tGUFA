@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Dancing Reed",
+  "base_artist": "ときのそら",
+  "createdAt": "2026-03-25T05:41:50.159621Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dancing Reed",
+      "artist": "ときのそら",
+      "has_synced": true,
+      "path": "select/01_Dancing_Reed_ときのそら.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dancing Reed",
+      "artist": "Tokino Sora",
+      "has_synced": true,
+      "path": "select/02_Dancing_Reed_Tokino_Sora.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dancing Reed",
+      "artist": "ときのそら",
+      "has_synced": false,
+      "path": "select/pl_01_Dancing_Reed_ときのそら.txt"
+    }
+  ]
+}
